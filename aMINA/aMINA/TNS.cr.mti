@@ -1,0 +1,49 @@
+C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/timer.vhd {1 {vcom -work work -2002 -explicit C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/timer.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity timer
+-- Compiling architecture archi of timer
+
+} {} {}} C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/shiftregister2.vhd {1 {vcom -work work -2002 -explicit C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/shiftregister2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftregister2
+-- Compiling architecture SYN of shiftregister2
+
+} {} {}} C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/corrsymbole.vhd {1 {vcom -work work -2002 -explicit C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/corrsymbole.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity corrsymbole
+-- Compiling architecture arch of corrsymbole
+
+} {} {}} C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/corrsymbole_tb.vhd {2 {vcom -work work -2002 -explicit C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/corrsymbole_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity corrsymbole_tb
+-- Compiling architecture corrsymbole_tb_arch of corrsymbole_tb
+** Warning: C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/corrsymbole_tb.vhd(63): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+
+} {} {}} C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/shiftregister1.vhd {1 {vcom -work work -2002 -explicit C:/Users/TEMP.LABO-ENERGIE-PC.001/Desktop/aMINA/shiftregister1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftregister1
+-- Compiling architecture SYN of shiftregister1
+
+} {} {}}
