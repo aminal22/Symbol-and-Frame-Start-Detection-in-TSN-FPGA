@@ -1,4 +1,4 @@
-###Symbol and Frame Start Detection in TSN FPGA
+### Symbol and Frame Start Detection in TSN FPGA
 
 #### Overview:
 This project aims to detect the start of symbols and frames in Time-Sensitive Networking (TSN) using FPGA. The detection is achieved by correlating the received signal with predefined symbols and guards.
