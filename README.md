@@ -17,6 +17,13 @@ The architecture is divided into two blocks:
 2. Frame Start Detection Block: Detects the start of different symbols within a frame by copying a guard at the end of each symbol.
 
 
+
+![trame](https://github.com/aminal22/Symbol-and-Frame-Start-Detection-in-TSN-FPGA/assets/114859285/1ba91a1d-bcd7-4326-963d-7359d5bc21c0)
+
+
+
+
+
 #### Implementation:
 - The architecture can be implemented in a single VHDL file or divided into two VHDL files.
 - Utilize Altera's tools to create two shift registers of lengths `gFFT_length/2` and `gGard_length`, named `shiftregister1` and `shiftregister2` respectively.
